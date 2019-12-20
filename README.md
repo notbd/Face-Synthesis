@@ -1,4 +1,5 @@
 # Face-Synthesis
+![Ref](./ref/ref.jpeg)
 ![Thumbnail](thumbnail.jpg)
 
 This project locates different faces in multiple images, warps them to a certain perspective so that the facial landmarks / corresponding areas are matched. Then the average of the morphed faces is computed and blended back to the reference plane with the help of poisson editing.
